@@ -137,3 +137,18 @@ h2 {
     padding-top: 16px;
     border-top: 1px solid lightgray;
 }
+
+.no-todos-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.no-todos-svg-container {
+    width: 260px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.no-todos-text-container {
+    margin-top: 30px;
+}
