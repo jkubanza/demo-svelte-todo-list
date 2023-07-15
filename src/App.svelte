@@ -166,14 +166,8 @@
 				</div>
 			</div>
 		{:else}
-			<div class="no-todos-container">
-				<div class="no-todos-svg-container">
-					<EmptyCard/>
-				</div>
-				<div class="no-todos-text-container">
-					Please enter a todo...
-				</div>
-			</div>
+		<EmptyCard title="Please enter a todo"/>
+			
 		{/if}
 	</div>
 </div>
